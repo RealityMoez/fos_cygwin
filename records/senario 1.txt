@@ -1,0 +1,112 @@
+========================================================================
+                       Bochs x86 Emulator 2.6.8
+                Built from SVN snapshot on May 3, 2015
+                  Compiled on May  3 2015 at 10:02:21
+========================================================================
+00000000000i[      ] reading configuration from .bochsrc
+00000000000e[      ] .bochsrc:281: ataX-master/slave CHS set to 0/0/0 - autodetection enabled
+
+
+
+                     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                     !!                                                             !!
+                     !!                   !! FCIS says HELLO !!                     !!
+                     !!                                                             !!
+                     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Physical memory: 262144K available, base = 640K, extended = 261120K
+Max Envs = 12
+check_boot_pgdir() succeeded!
+
+Welcome to the FOS kernel command prompt!
+Type 'help' for a list of commands.
+FOS> run tqsfh 7 0
+
+Environment Id= 4096
+[tqsfh 4096] Enter the number of elements: 1000
+[tqsfh 4096] ===============================================
+[tqsfh 4096] Congratulations!! The array is freed correctly
+[tqsfh 4096] ===============================================
+
+[tqsfh 4096] Choose the initialization method:
+[tqsfh 4096] a) Ascending
+[tqsfh 4096] b) Descending
+[tqsfh 4096] c) Semi random
+[tqsfh 4096] Select: a
+[tqsfh 4096] ===============================================
+[tqsfh 4096] Congratulations!! The array is sorted correctly
+[tqsfh 4096] ===============================================
+
+[tqsfh 4096] Freeing the Heap...
+
+
+ end : 80001000
+[tqsfh 4096] ===============================================
+[tqsfh 4096] Congratulations!! The array is freed correctly
+[tqsfh 4096] ===============================================
+
+[tqsfh 4096] Do you want to repeat (y/n): y
+
+[tqsfh 4096] Enter the number of elements: 5000
+[tqsfh 4096] ===============================================
+[tqsfh 4096] Congratulations!! The array is freed correctly
+[tqsfh 4096] ===============================================
+
+[tqsfh 4096] Choose the initialization method:
+[tqsfh 4096] a) Ascending
+[tqsfh 4096] b) Descending
+[tqsfh 4096] c) Semi random
+[tqsfh 4096] Select: b
+[tqsfh 4096] ===============================================
+[tqsfh 4096] Congratulations!! The array is sorted correctly
+[tqsfh 4096] ===============================================
+
+[tqsfh 4096] Freeing the Heap...
+
+
+ end : 80006000
+
+ end : 80006000
+[tqsfh 4096] ===============================================
+[tqsfh 4096] Congratulations!! The array is freed correctly
+[tqsfh 4096] ===============================================
+
+[tqsfh 4096] Do you want to repeat (y/n): y
+
+[tqsfh 4096] Enter the number of elements: 300000
+[tqsfh 4096] ===============================================
+[tqsfh 4096] Congratulations!! The array is freed correctly
+[tqsfh 4096] ===============================================
+
+[tqsfh 4096] Choose the initialization method:
+[tqsfh 4096] a) Ascending
+[tqsfh 4096] b) Descending
+[tqsfh 4096] c) Semi random
+[tqsfh 4096] Select: c
+[tqsfh 4096] ===============================================
+[tqsfh 4096] Congratulations!! The array is sorted correctly
+[tqsfh 4096] ===============================================
+
+[tqsfh 4096] Freeing the Heap...
+
+
+ end : 8012b000
+
+ end : 8012b000
+[tqsfh 4096] ===============================================
+[tqsfh 4096] Congratulations!! The array is freed correctly
+[tqsfh 4096] ===============================================
+
+[tqsfh 4096] Do you want to repeat (y/n): n
+
+[tqsfh 4096] **************************************
+[tqsfh 4096] Num of PAGE faults = 15326, modif = 0
+[tqsfh 4096] Num of PAGE IN (from disk) = 15327, Num of PAGE OUT (on disk) = 4823
+[tqsfh 4096] Num of clocks = 389
+[tqsfh 4096] **************************************
+FOS> ========================================================================
+Bochs is exiting with the following message:
+[WINGUI] POWER button turned off.
