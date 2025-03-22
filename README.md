@@ -3,7 +3,7 @@
 You can find project documentation at `.\documentation\os_2021_project_documentation.pdf`.
 
 ## Run
-- Place project directory `fos_cygwin` in C Drive *(like "**`C:\fos_cygwin`**")*.
+- Place project directory `fos_cygwin` in C Drive *(like "**`C:\fos_cygwin`**")*, after extracting `fos_cygwin.rar` with *'Extract to ..'* option.
 - Run `FOS_Eclipse.bat` to start Eclipse.
 - Click on Run button's dropdown and select `4 FOS_Project_Run` to start the CLI OS:
 
