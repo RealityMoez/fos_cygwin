@@ -1,6 +1,10 @@
 # FOS
 
-You can find project documentation at `.\documentation\os_2021_project_documentation.pdf`.
+FOS is a lightweight command-line operating system written in C that offers an accessible introduction to OS development. 
+Built around a well-structured template and detailed PDF documentation.
+it serves as an educational platform to explore fundamental concepts like process management, memory allocation, and system calls. 
+
+For more details, you can find project documentation at `.\documentation\os_2021_project_documentation.pdf`.
 
 ## Run
 - Place project directory `fos_cygwin` in C Drive *(like "**`C:\fos_cygwin`**")*, after extracting `fos_cygwin.rar` with *'Extract to ..'* option.
