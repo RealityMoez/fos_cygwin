@@ -1,2 +1,2 @@
-# Ensuring consistency throughout any future github repo contribution(s), as we are using Git Large File Storage (LFS) because `fos_cygwin.rar` is 625 MB (which exceeds git file size limit of 100 MB)
+# We are using Git Large File Storage (LFS) because `fos_cygwin.rar` is 625 MB (which exceeds git file size limit of 100 MB)
 fos_cygwin.rar filter=lfs diff=lfs merge=lfs -text
