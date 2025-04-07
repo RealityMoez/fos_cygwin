@@ -6,8 +6,9 @@ it serves as an educational platform to explore fundamental concepts like proces
 
 For more details, you can find project documentation at `.\documentation\os_2021_project_documentation.pdf`.
 
-## Run
-- Place project directory `fos_cygwin` in C Drive *(like "**`C:\fos_cygwin`**")*, after extracting `fos_cygwin.rar` with *'Extract to ..'* option.
+## How to run
+- Download `fos_cygwin.rar`.
+- Extract `fos_cygwin.rar` with ***"Extract to.."*** option, then place project directory `fos_cygwin` in `C` Drive *(like "**`C:\fos_cygwin`**")*.
 - Run `FOS_Eclipse.bat` to start Eclipse.
 - Click on Run button's dropdown and select `4 FOS_Project_Run` to start the CLI OS:
 
