@@ -4,7 +4,7 @@ FOS is a lightweight command-line operating system written in C that offers an a
 Built around a well-structured template and detailed PDF documentation.
 it serves as an educational platform to explore fundamental concepts like process management, memory allocation, and system calls. 
 
-For more details, you can find project documentation at `.\documentation\os_2021_project_documentation.pdf`.
+For more details, you can find project documentation at [`.\documentation\os_2021_project_documentation.pdf`](https://github.com/RealityMoez/fos_cygwin/blob/main/documentation/os_2021_project_documentation.pdf).
 
 ## How to run
 - Download `fos_cygwin.rar`.
@@ -14,4 +14,4 @@ For more details, you can find project documentation at `.\documentation\os_2021
 
     ![image](https://github.com/user-attachments/assets/a733425e-795a-4acc-a5e3-e392b6b27a04)
 
-- You may refer to `.\documentation\os_2021_project_test_cases.pdf` and `.\records` to start testing.
+- You may refer to [`.\documentation\os_2021_project_test_cases.pdf`](https://github.com/RealityMoez/fos_cygwin/blob/main/documentation/os_2021_project_test_cases.pdf) and [`.\records`](https://github.com/RealityMoez/fos_cygwin/tree/main/records) to start testing.
